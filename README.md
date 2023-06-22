@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a Text Summarization Project, the repo is not public at the moment. 
+
+I’m currently working on a Text Summarization Project, the repo is not public at the moment. 
