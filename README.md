@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I’m currently working on a Text Summarization Project, the repo is not public at the moment. 
+Tying to add some graphs to the project,this is done aside from the summarization itself, 
+to offer some visual insight into the information extracted from the text
