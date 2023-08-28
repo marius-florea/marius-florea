@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m currently working on a Text Summarization Project, the repo is not public at the moment.<br/>
 The app reads news articles, parses them and summarizes them.<br/>
 Tying to add some solution involving graphs to the project, this is done aside from the summarization itself, 
-to offer some visual insight into the information extracted from the text.<br/> 
+to offer some visual insight into the information extracted from the article.<br/> 
 The graphs constructed could highlight some information that otherwise would need some careful reading of the text.<br/>
 
 Working on: 	<br/>
