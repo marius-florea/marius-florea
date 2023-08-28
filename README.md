@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on a Text Summarization Project, the repo is not public at the moment. 
-Tying to add some graphs to the project,this is done aside from the summarization itself, 
-to offer some visual insight into the information extracted from the text
+I’m currently working on a Text Summarization Project, the repo is not public at the moment.<br/>
+The app reads news articles, parses them and summarizes them.<br/>
+Tying to add some solution involving graphs to the project, this is done aside from the summarization itself, 
+to offer some visual insight into the information extracted from the text.<br/> 
+The graphs constructed could highlight some information that otherwise would need some careful reading of the text.<br/>
+
+Working on: 	<br/>
+            - read multiple articles -> transform into graphs -> combine the graphs -> reduce size of the final graph to gain some insight <br/>
+            - possible mixing some topics into the mix :) ( with LDA )
