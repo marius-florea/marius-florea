@@ -23,4 +23,4 @@ The graphs constructed could highlight some information that otherwise would nee
 
 Working on: 	<br/>
             - read multiple articles -> transform into graphs -> combine the graphs -> reduce size of the final graph to gain some insight <br/>
-            - looking into extracting some topics from text (with LDA)
+            - also looking into topic modeling (LDA, Bertopic) 
