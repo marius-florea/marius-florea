@@ -24,3 +24,4 @@ The graphs constructed could highlight some information that otherwise would nee
 Working on: 	<br/>
             - read multiple articles -> transform into graphs -> combine the graphs -> reduce size of the final graph to gain some insight <br/>
             - also looking into topic modeling (LDA, Bertopic) 
+            - some small optimization using multiprocessing (see https://github.com/marius-florea/Enron-Data-Loading)
