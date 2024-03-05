@@ -25,3 +25,8 @@ Working on: 	<br/>
             - read multiple articles -> transform into graphs -> combine the graphs -> reduce size of the final graph to gain some insight <br/>
             - also looking into topic modeling (LDA, Bertopic) <br>
             - some small optimization using multiprocessing (see https://github.com/marius-florea/Enron-Data-Loading)
+
+Dependency parsing preview:<br/>
+            - SVO extraction <br/>
+            - rendered with networkx + matplotlib <br/>
+![depency_graph](https://github.com/marius-florea/marius-florea/assets/67599658/7779446e-f2e9-418f-bca2-ca4e60d54320)
